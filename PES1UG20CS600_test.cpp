@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-  cout << "Hello, World Jenkins Pipeline\n";
+  cout << "Hello, World Jenkins Pipeline\n;
   return 0;
 }
